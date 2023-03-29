@@ -6,3 +6,6 @@ An AI system designed for pentesting, or penetration testing, would be a special
 The AI could also simulate attacks to test the effectiveness of existing security measures and provide recommendations for improving the security posture of the organization. By automating certain aspects of the pentesting process, the AI could increase the speed and accuracy of the assessment while reducing the cost and resource requirements.
 
 Overall, an AI system designed for pentesting would be a valuable tool for organizations looking to proactively identify and mitigate vulnerabilities in their systems and applications.
+
+# Liability Disclaimer:
+To the maximum extent permitted by applicable law, D-Sensei and/or affiliates who have submitted content to D-Sensei, shall not be liable for any indirect, incidental, special, consequential or punitive damages, or any loss of profits or revenue, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from (i) your access to this resource and/or inability to access this resource; (ii) any conduct or content of any third party referenced by this resource, including without limitation, any defamatory, offensive or illegal conduct or other users or third parties; (iii) any content obtained from this resource
